@@ -1,0 +1,7 @@
+{
+  "name": "intelligent-warehouse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
